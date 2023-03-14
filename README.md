@@ -41,7 +41,7 @@
 Сделайте git push origin master.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-
+https://github.com/ip75wester/sys-hw/commit/073cde233a0ada0f0a15a57e253a407addc8b388
 ---
 
 ### Задание 2
